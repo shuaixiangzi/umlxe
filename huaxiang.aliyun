@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://umios.oss-cn-qingdao.aliyuncs.com/largeicon.png</string>
+					<string>http://huaxiang.oss-cn-beijing.aliyuncs.com/largeicon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://umios.oss-cn-qingdao.aliyuncs.com/smallicon.png</string>
+					<string>http://huaxiang.oss-cn-beijing.aliyuncs.com/smallicon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
