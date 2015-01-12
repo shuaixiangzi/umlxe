@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://huaxiang.oss-cn-beijing.aliyuncs.com/huaxiang.ipa</string>
+					<string>http://115.28.225.72/infoget/umlxep/umlxep.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://huaxiang.oss-cn-beijing.aliyuncs.com/largeicon.png</string>
+					<string>http://115.28.225.72/infoget/umlxep/largeicon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://huaxiang.oss-cn-beijing.aliyuncs.com/smallicon.png</string>
+					<string>http://115.28.225.72/infoget/umlxep/smallicon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.intwork.umlxep</string>
 				<key>bundle-version</key>
-				<string>5.6.0109</string>
+				<string>5.6.0112</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
