@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://huaxiang.oss-cn-beijing.aliyuncs.com/huaxiang0304.ipa</string>
+					<string>http://huaxiang.oss-cn-beijing.aliyuncs.com/huaqitong.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.intwork.umlxep</string>
 				<key>bundle-version</key>
-				<string>5.6.0206</string>
+				<string>5.7.0723</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
