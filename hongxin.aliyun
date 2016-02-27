@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.intwork.umlxep</string>
 				<key>bundle-version</key>
-				<string>5.8.160108</string>
+				<string>5.8.160224</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>红信</string>
+				<string>镇村云平台</string>
 				<key>title</key>
-				<string>红信</string>
+				<string>镇村云平台</string>
 			</dict>
 		</dict>
 	</array>
