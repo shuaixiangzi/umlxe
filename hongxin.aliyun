@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://customer-order.oss-cn-beijing.aliyuncs.com/hongxin.ipa</string>
+					<string>http://218.58.192.39/download/zcypt.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://customer-order.oss-cn-beijing.aliyuncs.com/hx-large.png</string>
+					<string>http://218.58.192.39/download/large.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://customer-order.oss-cn-beijing.aliyuncs.com/hx-small.png</string>
+					<string>http://218.58.192.39/download/small.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.intwork.umlxep</string>
 				<key>bundle-version</key>
-				<string>5.8.160224</string>
+				<string>5.8.160318</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
