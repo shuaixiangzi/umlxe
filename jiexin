@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http:/http://www.umnet.cn/2016for/jiexinlarge.png</string>
+					<string>http:/http://www.umnet.cn/2016for/jiexin120.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http:/http://www.umnet.cn/2016for/jiexinsmall.png</string>
+					<string>http:/http://www.umnet.cn/2016for/jiexin57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
