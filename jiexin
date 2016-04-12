@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.umnet.cn/2016for/20160318.ipa</string>
+					<string>http://www.umnet.cn/2016for/jiexin.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://weishijiao-jiaoliu.oss-cn-beijing.aliyuncs.com/icon_ios7.png</string>
+					<string>http:/http://www.umnet.cn/2016for/jiexinlarge.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://weishijiao-jiaoliu.oss-cn-beijing.aliyuncs.com/Icon.png</string>
+					<string>http:/http://www.umnet.cn/2016for/jiexinsmall.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.intwork.umlxep</string>
 				<key>bundle-version</key>
-				<string>5.7.1207</string>
+				<string>5.8.160412</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>微视角</string>
+				<string>捷信</string>
 				<key>title</key>
-				<string>微视角</string>
+				<string>捷信</string>
 			</dict>
 		</dict>
 	</array>
