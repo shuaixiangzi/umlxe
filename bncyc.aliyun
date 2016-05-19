@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://customer-order.oss-cn-beijing.aliyuncs.com/bncyc.ipa</string>
+					<string>http://www.umnet.cn/client/bncyc/bncyc.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.intwork.umlxep</string>
 				<key>bundle-version</key>
-				<string>5.7.0624</string>
+				<string>5.8.0520</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
