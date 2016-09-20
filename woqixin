@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.umnet.cn/woqixin/download/woqixin.ipa</string>
+					<string>http://http://woqixin.uni-ca.com.cn/download/woqixin.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.intwork.umlxep</string>
 				<key>bundle-version</key>
-				<string>5.6.0718</string>
+				<string>6.0.20160909</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
