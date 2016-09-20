@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://http://woqixin.uni-ca.com.cn/download/woqixin.ipa</string>
+					<string>http://woqixin.uni-ca.com.cn/download/woqixin.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://www.umnet.cn/woqixin/download/largeicon.png</string>
+					<string>http://woqixin.uni-ca.com.cn/download/largeicon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://www.umnet.cn/woqixin/download/smallicon.png</string>
+					<string>http://woqixin.uni-ca.com.cn/download/smallicon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
