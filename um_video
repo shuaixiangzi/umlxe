@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://www.umnet.cn/umfx/download/largeicon.png</string>
+					<string>http://www.umnet.cn/umfx/download/UM_Video_large.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://www.umnet.cn/umfx/download/smallicon.png</string>
+					<string>http://www.umnet.cn/umfx/download/UM_Video_small.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
