@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://www.umnet.cn/client/dszsq/tgel-large.png</string>
+					<string>http://www.umnet.cn/client/dszsq/bncyc-large.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://www.umnet.cn/client/dszsq/tgel-small.png</string>
+					<string>http://www.umnet.cn/client/dszsq/bncyc-small.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
